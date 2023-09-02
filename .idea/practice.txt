@@ -2,3 +2,5 @@ Color
 
 1.Black
 2.White
+3.Pink
+4.Yellow
